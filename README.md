@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Dilip Goud!
 
-## 🚀 Full-Stack Developer | Python Enthusiast | AI/ML Explorer
+## 🚀 Python Enthusiast | AI/ML Explorer
 
 ### 🌟 About Me
 I'm a passionate Full-Stack Developer with expertise in building scalable web applications, microservices, and AI-powered solutions. I specialize in Python backends with modern frameworks and love exploring cutting-edge AI/ML technologies. I thrive on solving real-world challenges with robust architectures, clean code, and innovative solutions.
 
 ### 🛠️ Skills & Tech Stack
-- **Languages:** Python, PHP, JavaScript  
-- **Backend Frameworks:** FastAPI, Django, Flask, Laravel, Symfony  
+- **Languages:** Python,
+- **Backend Frameworks:** FastAPI, Django, Flask  
 - **AI/ML:** Langchain, Haystack, Langgraph, gRPC  
 - **Databases:** MySQL, MongoDB  
-- **Frontend:** HTML, CSS, SCSS, JavaScript  
-- **Specializations:** Microservices, gRPC, AI Chatbots, Video Processing
+- **Frontend:** Basic of React, vue
+- **Specializations:** Microservices, gRPC, AI simple Chatbots
 
 ### 📂 Featured Projects
 
@@ -30,7 +30,7 @@ I'm a passionate Full-Stack Developer with expertise in building scalable web ap
 
 ### 📊 Repository Statistics
 - **Total Repositories:** 8
-- **Primary Languages:** Python, SCSS, JavaScript
+- **Primary Languages:** Python
 - **Focus Areas:** AI/ML, Backend Development, Microservices Architecture
 
 ### 🔗 Connect With Me
