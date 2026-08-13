@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Dilip Goud!
 
-## 🚀 Python Enthusiast | AI/ML Explorer
+## 🚀 AI & Full-Stack Developer | Python • FastAPI • LLMs • React
 
 ### 🌟 About Me
-I'm a passionate Full-Stack Developer with expertise in building scalable web applications, microservices, and AI-powered solutions. I specialize in Python backends with modern frameworks and love exploring cutting-edge AI/ML technologies. I thrive on solving real-world challenges with robust architectures, clean code, and innovative solutions.
+I'm a Full-Stack Developer focused on building AI-powered applications, backend services, APIs, and business applications. I work primarily with Python, FastAPI, LLM frameworks, React, and databases, with experience exploring AI agents, MCP, microservices, and gRPC.
+**Give me a problem, and I'll build the system to solve it.**
 
 ### 🛠️ Skills & Tech Stack
 - **Languages:** Python,
 - **Backend Frameworks:** FastAPI, Django, Flask  
 - **AI/ML:** Langchain, Haystack, Langgraph, gRPC  
 - **Databases:** MySQL, MongoDB  
-- **Frontend:** Basic of React, vue
+- **Frontend:** React, vue
 - **Specializations:** Microservices, gRPC, AI simple Chatbots
 
 ### 📂 Featured Projects
@@ -20,16 +21,16 @@ I'm a passionate Full-Stack Developer with expertise in building scalable web ap
 - **[Video Analyzer With AI](https://github.com/indvx/video-analyzer-with-ai)** - Intelligent video summarization and Q&A system powered by LangGraph and Langchain
 - **[Langchain Chatbot Backend](https://github.com/indvx/langchain-chatbot-backend)** - AI-powered messaging backend with advanced integration capabilities
 
-#### 🔐 Backend & Microservices
-- **[FastAPI gRPC Authentication](https://github.com/indvx/fast-api-gRpc-authentication)** - Enterprise-grade secure and scalable authentication microservice using gRPC and FastAPI
-- **[Haystack Chatbot](https://github.com/indvx/haystack-chatbot)** - Advanced conversational AI system built with Haystack framework
-
 #### 💼 Full-Stack Applications
 - **[Langchain Chatbot UI](https://github.com/indvx/langchain-chatbot-ui)** - Modern, responsive frontend for intelligent chatbot interactions
 - **[Restaurant Management System](https://github.com/indvx/Restaurant-managament-system)** - Complete restaurant operations management platform
 
+#### 🔐 Backend & Microservices
+- **[FastAPI gRPC Authentication](https://github.com/indvx/fast-api-gRpc-authentication)** - Enterprise-grade secure and scalable authentication microservice using gRPC and FastAPI
+- **[Haystack Chatbot](https://github.com/indvx/haystack-chatbot)** - Advanced conversational AI system built with Haystack framework
+
+
 ### 📊 Repository Statistics
-- **Total Repositories:** 8
 - **Primary Languages:** Python
 - **Focus Areas:** AI/ML, Backend Development, Microservices Architecture
 
