@@ -37,7 +37,7 @@ I'm a Full-Stack Developer focused on building AI-powered applications, backend 
 ### 🔗 Connect With Me
 - **LinkedIn:** [linkedin.com/in/dilip-goud-290782235/](https://www.linkedin.com/in/dilip-goud-290782235/)
 - **GitHub:** [@indvx](https://github.com/indvx)
-- **Gmail:** [@mail](dilipgaurh2017@gmail.com)
+- **Gmail:** [mail](dilipgaurh2017@gmail.com)
 
 ### 💡 What I'm Working On
 Currently exploring advanced AI architectures, model context protocols, and building intelligent systems that solve real-world problems through automation and intelligent processing.
